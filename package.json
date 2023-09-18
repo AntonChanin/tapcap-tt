@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "blast game",
   "main": "index.js",
-  "repository": "git+https://github.com/AntonChanin/simple-blast-game.gitgit+https://github.com/AntonChanin/tapcap-tt.git",
+  "repository": "git+https://github.com/AntonChanin/tapcap-tt.git",
   "author": "AVH",
   "license": "MIT",
   "scripts": {
