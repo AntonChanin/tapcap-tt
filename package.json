@@ -1,0 +1,33 @@
+{
+  "name": "tapcap-tt",
+  "version": "1.0.0",
+  "description": "blast game",
+  "main": "index.js",
+  "repository": "git+https://github.com/AntonChanin/simple-blast-game.gitgit+https://github.com/AntonChanin/tapcap-tt.git",
+  "author": "AVH",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --colors"
+  },
+  "dependencies": {
+    "pixi.js": "^7.2.4",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.20",
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-typescript": "^7.22.15",
+    "@jest/globals": "^29.7.0",
+    "@types/uuid": "^9.0.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.9"
+  }
+}
